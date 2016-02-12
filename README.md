@@ -1,2 +1,2 @@
 # ellen
-(http://stage-ellen.nextguide.tv)
+(http://stage-rosebud.nextguide.tv)
